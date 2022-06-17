@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+p {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	line-height: 18px;
+	width: 1300px;
+	background-color: rgba(224,166,167,1.00);
+		padding: 20px;
+	font-size: 20px;
+}
+h1,h2 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: darkred;
+}
+
+body {background-image: url("html projekt/pozadina.jpg");
+	font-size: 20px;
+}
+a:link{color: black;
+background-color: white;
+padding: 1px;
+line-height: 40px;
+}
+img{height: 300px;
+}
+video{height: 400px
+	width: 400px;
+}
